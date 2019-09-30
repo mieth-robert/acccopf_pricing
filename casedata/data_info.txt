@@ -1,0 +1,2 @@
+This is the 118bus testcase from "MatpowerCases.jld".
+Because MatpowerCases.jl has no Julia 1 support, the data has been read with an older Julia version and pickled in a .jld file to be read in Julia 1.
